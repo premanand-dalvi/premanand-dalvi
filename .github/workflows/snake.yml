@@ -1,0 +1,27 @@
+<div align="center">
+
+<!-- Typing SVG Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Prem+Dalvi;Cloud+%26+DevOps+Enthusiast;Automating+Everything+with+Code;Welcome+to+my+Terminal+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Premananddalvi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+### 💻 `user@prem:~$ cat about_me.json`
+
+```json
+{
+  "name": "Premanand Dalvi",
+  "location": "Maharashtra, India",
+  "role": "Cloud & DevOps Engineer",
+  "core_competencies": ["CI/CD Pipelines", "Container Orchestration", "Infrastructure as Code"],
+  "currently_exploring": "Kubernetes Operators & Multi-Cloud Networking",
+  "philosophy": "If you have to do it more than once, automate it."
+}
